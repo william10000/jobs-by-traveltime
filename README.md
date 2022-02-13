@@ -1,3 +1,7 @@
+I'm archiving this b/c #remote-work so I don't care as much about looking for jobs within a reasonable commuting distance.
+
+---
+
 Do not deploy this to a public-facing site. API keys might be in the JS bundle.
 
 This is a client-side only POC of an app that looks up jobs via the Indeed publisher API and displays results on a map with a travel time isochrone.
